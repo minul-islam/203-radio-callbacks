@@ -10,7 +10,7 @@ import plotly.graph_objs as go
 myheading1='Types of Distribution'
 tabtitle = 'xkcd'
 list_of_options=['Uniform', 'Poisson', 'Normal', 'Logistic']
-list_of_images=['Uniform.png', 'Poisson.png', 'normal.jpg', 'logistic.png']
+list_of_images=['Uniform.png', 'Poisson.png', 'normal.png', 'logistic.jpeg']
 sourceurl = 'https://xkcd.com/'
 githublink = 'https://github.com/minul-islam/203-radio-callbacks'
 
